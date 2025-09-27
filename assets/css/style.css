@@ -681,6 +681,7 @@ h5 {
 
 .our-portfolio{
     padding: 70px 0 80px 0;
+    overflow: hidden;
 }
 
 .our-portfolio-category-area{
@@ -799,6 +800,7 @@ h5 {
     width: 95%;
     margin: auto;
     border-radius: 30px;
+    overflow: hidden;
 }
 
 .our-services-card-wraper{
@@ -962,6 +964,7 @@ h5 {
 .testimonial-area{
     padding: 65px 0 90px 0;
     position: relative;
+    overflow: hidden;
 }
 
 .testimonial-area-wraper{
@@ -1110,6 +1113,7 @@ h5 {
 
 .our-articles-area{
     padding-bottom: 56px;
+    overflow: hidden;
 }
 
 .our-articles-card-wraper{
@@ -1221,6 +1225,7 @@ h5 {
 
 .meet-area{
     margin: 130px 0 120px 0;
+    overflow: hidden;
 }
 
 .meet-area-inner{
